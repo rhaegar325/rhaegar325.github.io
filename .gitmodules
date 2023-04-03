@@ -1,0 +1,3 @@
+[submodule "access_iomb_CMIP6"]
+	path = access_iomb_CMIP6
+	url = git@github.com:climatemodeling/unified-dashboard.git
